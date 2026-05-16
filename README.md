@@ -99,7 +99,7 @@
 ## 📫 Contact
 
 - 📧 Email — GitHub 프로필 페이지 좌측 정보 참조
-- 💻 GitHub: 메인 [@YHPARK-KR](https://github.com/YHPARK-KR) · 이전 [@yhp0308](https://github.com/yhp0308) <sub>(학원 시절 코드 보존)</sub>
+- 💻 GitHub: 메인 [@YHPARK-KR](https://github.com/YHPARK-KR)
 
 ---
 <sub>📍 Busan, KR · 제조/산업 IT 도메인 AI·데이터 직군 구직 중</sub>
