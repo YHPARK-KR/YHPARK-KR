@@ -1,4 +1,4 @@
-<h1 align="center">박윤환 · Yunhwan Park</h1>
+<h1 align="center">박윤환 · YUNHWAN PARK</h1>
 
 <p align="center">
   <b>PLC 현장 3년 → AI 전환 | 제조 AI 컨설턴트 지망</b><br/>
