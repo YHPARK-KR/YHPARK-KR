@@ -86,17 +86,5 @@
 ### Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YHPARK-KR&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YHPARK-KR&theme=default&hide_border=true" height="150"/>
-</p>
-
----
-
-<p align="center">
-  <a href="https://github.com/YHPARK-KR/digitization-of-piping-and-instrument-diagrams">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YHPARK-KR&repo=digitization-of-piping-and-instrument-diagrams&theme=default&hide_border=true" />
-  </a>
-  <a href="https://github.com/YHPARK-KR/Claude_talk">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YHPARK-KR&repo=Claude_talk&theme=default&hide_border=true" />
-  </a>
 </p>
