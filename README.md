@@ -1,105 +1,150 @@
-<h1 align="center">박윤환 · YUNHWAN PARK</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Yunhwan%20Park&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Manufacturing%20AI%20%C2%B7%20Data-Centric%20%C2%B7%20Vibe%20Coding&descSize=16&descAlignY=55&descAlign=50" width="100%"/>
 
 <p align="center">
-  정치외교 정책 분석력 × PLC 산업 도메인 감각 × AI 풀스택 실무 <br/>
-  세 자산을 하나의 일로 묶어내는 융합형 개발자
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4FC3F7&center=true&vCenter=true&random=false&width=600&lines=%EA%B3%B5%EC%9E%A5+%ED%98%84%EC%9E%A5%EC%97%90%EC%84%9C+PLC%EB%A5%BC+%EB%A7%8C%EC%A7%80%EB%8B%A4%EA%B0%80+AI%EB%A5%BC+%EB%93%A4%EA%B3%A0+%EB%8F%8C%EC%95%84%EC%99%94%EC%8A%B5%EB%8B%88%EB%8B%A4.;%EB%AA%A8%EB%8D%B8%EB%B3%B4%EB%8B%A4+%EB%B6%84%EB%A5%98+%EC%B2%B4%EA%B3%84%EB%A5%BC+%EB%A8%BC%EC%A0%80+%EA%B3%A0%EC%B9%A9%EB%8B%88%EB%8B%A4.;%ED%98%84%EC%9E%A5+%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC+%EA%B5%AC%EC%A1%B0%ED%99%94%ED%95%98%EB%A9%B4+AI%EA%B0%80+%EC%9E%91%EB%8F%99%ED%95%A9%EB%8B%88%EB%8B%A4." alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Busan,_KR-0A66C2?style=flat-square&logo=googlemaps&logoColor=white">
-  <img src="https://img.shields.io/badge/Status-Open_to_Work-2EA44F?style=flat-square">
+  <a href="https://linkedin.com/in/%EC%9C%A4%ED%99%98-%EB%B0%95-013a29336"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:flash_hwan@naver.com"><img src="https://img.shields.io/badge/Email-03C75A?style=for-the-badge&logo=naver&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Busan,_KR-444?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Open_to_Work-2EA44F?style=for-the-badge"/>
 </p>
 
 ---
 
-## 👋 About
+### 🏭 Impact
 
-부산대 SW 양성과정 950시간 + SSAFY 14기 부울경 캠퍼스 수료(예정).  
-경남 양산에서 PLC 자동화 시스템 작업장을 운영하시는 아버지를 따라 약 3년간 산업 현장의 비효율을 직접 관찰한 경험이 IT/AI 진로의 출발점입니다. 정치외교·철학의 정책 분석 시선을 AI 풀스택 실무와 묶어, **제조·산업 도메인의 비효율을 데이터·AI로 푸는 일**을 합니다.
-
-- 🥇 SSAFY 14기 특화 PJT **AI 영상 트랙 1등** — *EyeSpeak* (ALS 환자 시선 의사소통)
-- 🥉 SSAFY 14기 공통 PJT **웹 디자인 트랙 우수상** — *관상네컷* (팀장/PM)
-- 🏅 제3회 고용노동부 공공데이터 활용 공모전 **장려상** — *슈퍼이끌림*
-- 🏢 SEMES 기업연계 자율 PJT — **YOLOv8l 도면 인식 정확도 87%**
-
-## 🧰 Tech Stack
-
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-
-**Frontend**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Recoil](https://img.shields.io/badge/Recoil-3578E5?style=flat-square)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-
-**Backend**  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
-**AI / CV / Signal**  
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square)
-![RAG+LLM](https://img.shields.io/badge/RAG%20%2B%20LLM-FF6F00?style=flat-square)
-![Ridge Regression](https://img.shields.io/badge/Ridge_Regression-8E44AD?style=flat-square)
-![One-Euro Filter](https://img.shields.io/badge/One--Euro_Filter-2C3E50?style=flat-square)
-
-**Data / Infra**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-
-**Dev with AI**  
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square)
-
-## 🚀 Projects
-
-### SEMES P&ID Viewer · SSAFY 14기 기업연계 자율 PJT *(진행 중)*
-> 반도체 설비 도면(P&ID) 자동 인식 → 작화 툴로 객체 데이터 전송. **AI 파트 담당.**
-
-- YOLOv8l 학습 데이터 구성·튜닝 → **도면 객체 인식 정확도 87%**
-- C# WPF 작화 툴로 인식 결과 파이프라인 연결
-- 기간: 2026.04 ~ 05 (6주)
-- 소스: 사내 GitLab `lab.ssafy.com/s14-final/S14P31S306` *(non-public)*
-
-### EyeSpeak · SSAFY 14기 특화 PJT 🥇 *(AI 영상 트랙 1등)*
-> 루게릭병(ALS) 환자를 위한 시선 추적 의사소통 도구. **시선 추적 모듈 담당.**
-
-- MediaPipe FaceLandmarker (478 특징점) → 다항식 캘리브레이션 + Ridge 회귀 **온라인 학습**
-- One-Euro 필터로 시선 떨림 제거 → Dwell 시간 + 눈 깜빡임 트리거로 선택 입력
-- 소스: 사내 GitLab `lab.ssafy.com/s14-ai-image-sub1/S14P21E205` *(1,134 commits · non-public)*
-
-### 관상네컷 (GS4CUT) · SSAFY 14기 공통 PJT 🥉 *(웹 디자인 트랙 우수상)*
-> MediaPipe 기반 AI 관상·사주 분석 + 미래 얼굴 이미지 생성. **PM/팀장 + 프론트 + 프롬프트 엔지니어링 공동.**
-
-- **응답시간 1분 20초 → 40초 (50% 단축)** — 비동기 병렬화로 분석/생성 파이프라인 재설계
-- `rules.md`로 478 특징점 → 관상학적 매핑 규칙을 LLM에 주입, 출력 구조 고정·두괄식·테이블 금지·few-shot 프롬프트 엔지니어링
-- 스택: React/TS, Vue, Spring Boot(8080), FastAPI(8000), MediaPipe, RAG(Redis) + GMS LLM, Gemini(미래 얼굴 생성)
-- 소스: 사내 GitLab `lab.ssafy.com/s14-webmobile2-sub1/S14P11E208` *(non-public)*
-
-### 슈퍼이끌림 · 제3회 고용노동부 공공데이터 공모전 🏅 *(장려상)*
-> HRD-NET 직업훈련 과정 추천 웹서비스. **프론트엔드 담당.**
-
-- **18,548개 교육기관 지도 시각화** — Naver Map API + GeoCoder
-- React · useEffect 비동기 데이터 페치, 백엔드와 API 명세서 공동 작성
-- 기간: 2024.06 ~ 08
-
-## 📚 Education
-- **경북대학교** 정치외교학과(주전공) + 철학과(부전공) · 2015.03 ~ 2025.08 · 130학점
-- **부산대학교 산학협력단** SW 양성과정 950h · 2024.01 ~ 2024.07 *(책임교수: 홍봉희)*
-- **SSAFY 14기** 부울경 캠퍼스 비전공자 파이썬반 · 2025.07 ~ 2026.07 *(예정)*
-
-## 📫 Contact
-
-- 📧 Email — GitHub 프로필 페이지 좌측 정보 참조
-- 💻 GitHub: 메인 [@YHPARK-KR](https://github.com/YHPARK-KR)
+| Project | What I Did | Result |
+|:--------|:-----------|-------:|
+| **SEMES P&ID Viewer** | 도면 심볼 분류 체계 재정의 + 1,200장 재라벨링 | mAP **64→87%** (+23%p) |
+| **EyeSpeak** 🥇 | One-Euro 필터 축별 분리, 48개 조합 정량 검증 | 오차 **148→62px** · 30fps |
+| **관상네컷** 🥉 | RAG 비동기 병렬화 + 프롬프트 3단계 분리 | 응답 **80→40초** · PM |
+| **공공데이터** 🏅 | React + Naver Map API 프론트엔드 | **18,548개** 지도 시각화 |
+| **PLC 자동화** | 경남 양산 제조 현장 운용 보조 | **~3년** 도메인 |
 
 ---
-<sub>📍 Busan, KR · 제조/산업 IT 도메인 AI·데이터 직군 구직 중</sub>
+
+### 🧰 Stack
+
+<table>
+  <tr>
+    <td><b>Lang</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Front</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Back</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>AI</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/YOLOv8-111?style=flat-square&logo=yolo&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white"/>
+      <img src="https://img.shields.io/badge/RAG+LLM-FF6F00?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Ridge-8E44AD?style=flat-square"/>
+      <img src="https://img.shields.io/badge/One--Euro-2C3E50?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Infra</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Vibe&nbsp;Coding</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Codex_CLI-412991?style=flat-square&logo=openai&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Cursor-000?style=flat-square"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🚀 Projects
+
+<details>
+<summary><b>SEMES P&ID Viewer</b> — 반도체 도면 AI 인식 (SSAFY × SEMES 기업연계)</summary>
+<br/>
+AI 파트 리드. YOLOv8l + C# WPF. ISA-5.1과 사내 명칭 교차 대조 → 12종 심볼 재정의, 1,200장 재라벨링.<br/>
+모델이 아니라 분류 체계를 고쳐서 23%p 올림. 2026.04~05 · <i>사내 GitLab</i>
+</details>
+
+<details>
+<summary><b>EyeSpeak</b> 🥇 — 루게릭병 환자 시선 의사소통 (SSAFY 1등, 삼성전자 주최)</summary>
+<br/>
+AI 시선 추적 모듈. MediaPipe 478 랜드마크 → Ridge 회귀 + One-Euro 필터 축별 분리.<br/>
+48개 파라미터 조합을 매트릭스로 정량 검증 → 오차 62px, 30fps. 2026.02~03 · 1,134 commits · <i>사내 GitLab</i>
+</details>
+
+<details>
+<summary><b>관상네컷</b> 🥉 — AI 관상 분석 (SSAFY 우수상, PM/팀장)</summary>
+<br/>
+RAG-LLM 파이프라인 설계. 프로파일링으로 임베딩 검색 병목(70%) 특정 → 비동기 병렬 + 프롬프트 3단계 분리.<br/>
+80초→40초. 2026.01~02 · <i>사내 GitLab</i>
+</details>
+
+<details>
+<summary><b>슈퍼이끌림</b> 🏅 — HRD-NET 직업훈련 추천 (고용노동부 장려상)</summary>
+<br/>
+React 프론트엔드. Naver Map API + GeoCoder로 18,548개 교육기관 지도 시각화. 2024.06~08
+</details>
+
+---
+
+### 📊 Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YHPARK-KR&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=00000000" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YHPARK-KR&theme=tokyonight&hide_border=true&background=00000000" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YHPARK-KR&theme=algolia&no-frame=true&column=6&margin-w=10" />
+</p>
+
+---
+
+### 📌 Pinned
+
+<p align="center">
+  <a href="https://github.com/YHPARK-KR/digitization-of-piping-and-instrument-diagrams">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YHPARK-KR&repo=digitization-of-piping-and-instrument-diagrams&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  </a>
+  <a href="https://github.com/YHPARK-KR/Claude_talk">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YHPARK-KR&repo=Claude_talk&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  </a>
+</p>
+
+---
+
+```
+2021~2024  경남 양산 PLC 자동화 현장 보조 (~3년) → "비효율은 데이터로 풀어야 한다"
+2024       부산대 AI 빅데이터 풀스택 과정 950h
+2025~2026  SSAFY 14기 부울경 (풀스택 + AI Foundation Model)
+           경북대 정치외교학(주) + 철학(부) 학사
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=100&section=footer" width="100%"/>
