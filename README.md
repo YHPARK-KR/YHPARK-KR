@@ -1,4 +1,4 @@
-<h1 align="center">박윤환 · Yunhwan Park</h1>
+<h1 align="center">박윤환 · YUNHWAN PARK</h1>
 
 <p align="center">
   <b>정치 데이터 분석 → 철학 존재론 → Data-Centric AI/CV 개발자</b><br/>
