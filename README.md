@@ -2,11 +2,6 @@
 
 **Data-Centric AI · Computer Vision · Developer Tools**
 
-산업 현장의 비효율을 데이터로 풀고 싶은 개발자입니다.<br>
-정치외교학과 철학을 공부했고, 지금은 도면 인식·시선 추적·검색 도구를 만듭니다.
-
-[Email](mailto:flash_hwan@naver.com) · [LinkedIn](https://linkedin.com/in/%EC%9C%A4%ED%99%98-%EB%B0%95-013a29336)
-
 ## Selected work
 
 ### SEMES P&ID Viewer
@@ -117,5 +112,4 @@ React 프론트엔드를 맡아 Naver Map API로 전국 교육기관을 지도�
 ## Background
 
 - **경북대** · 정치외교학 주전공 + 철학 부전공 (2015~2025). 선거·정책 데이터 양적 분석과 존재론 개념 구조화를 공부했습니다.
-- **부산대 AI 빅데이터 풀스택 과정** · 950h (2024)
 - **SSAFY 14기 부울경** · 풀스택 + AI Foundation Model · 1,628h (2025~2026)
