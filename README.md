@@ -8,34 +8,34 @@ AI에게 일을 맡기는 지금은 맡긴 결과가 맞는지 무엇으로 확�
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://sunlitsoil.github.io/olpark-guide/"><img src="assets/olpark.png" alt="올팍 길잡이 첫 화면: 질문 입력창과 주차 예보"></a>
+<a href="https://yhpark-kr.github.io/olpark-guide/"><img src="assets/olpark.png" alt="올팍 길잡이 첫 화면: 질문 입력창과 주차 예보"></a>
 <h3>올팍 길잡이</h3>
 올림픽공원에 가기 전 궁금한 것을 물으면 한국체육산업개발 공공데이터 FAQ 원문을 근거로 붙여 답합니다. 입출차 기록 215,528건으로 요일별, 시각별 주차 혼잡도를 예보합니다. 서버 없이 브라우저에서 돌아갑니다.
 <br><br>
-<a href="https://sunlitsoil.github.io/olpark-guide/"><b>바로 열기</b></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/sunlitsoil/olpark-guide">코드</a>
+<a href="https://yhpark-kr.github.io/olpark-guide/"><b>바로 열기</b></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/YHPARK-KR/olpark-guide">코드</a>
 </td>
 <td width="50%" valign="top">
-<a href="https://sunlitsoil.github.io/jobdash/"><img src="assets/jobdash.png" alt="Jobdash 오늘 탭: 다가오는 일정과 서류를 넘은 지원"></a>
+<a href="https://yhpark-kr.github.io/jobdash/"><img src="assets/jobdash.png" alt="Jobdash 오늘 탭: 다가오는 일정과 서류를 넘은 지원"></a>
 <h3>Jobdash</h3>
 지원 기록 CSV를 넣으면 이번 주에 챙길 일과 서류가 잘 붙는 곳을 한 화면에 보여 줍니다. 브라우저 안에서만 돌아가고 넣은 데이터는 어디로도 보내지 않습니다. 화면의 회사와 숫자는 지어낸 예시입니다.
 <br><br>
-<a href="https://sunlitsoil.github.io/jobdash/"><b>바로 열기</b></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/sunlitsoil/jobdash">코드</a>
+<a href="https://yhpark-kr.github.io/jobdash/"><b>바로 열기</b></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/YHPARK-KR/jobdash">코드</a>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/sunlitsoil/jeju-harvest-agent"><img src="assets/jeju.png" alt="밭에서 묻는 시세 비서: 당근 조금 기다리면 값 오를까? 질문에 대한 답"></a>
+<a href="https://github.com/YHPARK-KR/jeju-harvest-agent"><img src="assets/jeju.png" alt="밭에서 묻는 시세 비서: 당근 조금 기다리면 값 오를까? 질문에 대한 답"></a>
 <h3>밭에서 묻는 시세 비서</h3>
 농가가 말로 물은 출하 질문("월동무 지금 내도 될까?")에 제주데이터허브 시세와 가격 전망 숫자를 붙여 답하는 AI Agent입니다. 2026 제주 AI·빅데이터 활용 AI Agent 개발 챌린지 출품작입니다.
 <br><br>
-<a href="https://github.com/sunlitsoil/jeju-harvest-agent#시연"><b>시연 영상</b></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/sunlitsoil/jeju-harvest-agent">코드</a>
+<a href="https://github.com/YHPARK-KR/jeju-harvest-agent#시연"><b>시연 영상</b></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/YHPARK-KR/jeju-harvest-agent">코드</a>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/sunlitsoil/fitcast"><img src="assets/fitcast.png" alt="핏캐스트: 주행 중 부담이 커져 브리핑을 잠시 멈춘 화면"></a>
+<a href="https://github.com/YHPARK-KR/fitcast"><img src="assets/fitcast.png" alt="핏캐스트: 주행 중 부담이 커져 브리핑을 잠시 멈춘 화면"></a>
 <h3>핏캐스트</h3>
 도착 시각에 맞춰 끝나고, 운전이 바빠지는 순간에는 스스로 멈추는 차량용 AI 음성 브리핑입니다. Pleos Connect 공모전 출품작의 시제품으로, 에뮬레이터에서 확인했고 실차에서는 아직 돌려 보지 않았습니다.
 <br><br>
-<a href="https://github.com/sunlitsoil/fitcast"><b>코드와 APK</b></a>
+<a href="https://github.com/YHPARK-KR/fitcast"><b>코드와 APK</b></a>
 </td>
 </tr>
 </table>
