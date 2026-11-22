@@ -1,5 +1,3 @@
-<img src="assets/header-2.svg" width="100%" alt="sunlitsoil">
-
 산업 자동화 현장에서 약 3년을 보내고 AI로 넘어왔습니다.
 AI에게 일을 맡기는 지금은 맡긴 결과가 맞는지 무엇으로 확인할지를 붙잡고 있습니다.
 
@@ -42,7 +40,10 @@ AI에게 일을 맡기는 지금은 맡긴 결과가 맞는지 무엇으로 확�
 
 ## 팀 프로젝트
 
-<img src="assets/pipeline-3.svg" width="100%" alt="공정 도면 심볼 인식: 심볼 검출, 텍스트 짝짓기, 배관 연결, CAD 원본 추출. 운영 기본 엔진으로 채택.">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/pipeline-dark.svg">
+  <img src="assets/pipeline-light.svg" width="100%" alt="공정 도면 심볼 인식: 심볼 검출, 텍스트 짝짓기, 배관 연결, CAD 원본 추출. 운영 기본 엔진으로 채택.">
+</picture>
 
 | 프로젝트 | 맡은 일 | 결과 |
 | :--- | :--- | :--- |
@@ -63,7 +64,10 @@ AI에게 일을 맡기는 지금은 맡긴 결과가 맞는지 무엇으로 확�
 
 ## 같은 조건에서 바꾸기 전과 후
 
-<img src="assets/results-3.svg" width="100%" alt="같은 조건에서 바꾸기 전과 후. 노트 검색 R@10 78.2%에서 88.2%, 개인정보 가림 재현율 0.875에서 1.000, 관상네컷 응답 80초에서 40초.">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/results-dark.svg">
+  <img src="assets/results-light.svg" width="100%" alt="같은 조건에서 바꾸기 전과 후. 노트 검색 R@10 78.2%에서 88.2%, 개인정보 가림 재현율 0.875에서 1.000, 관상네컷 응답 80초에서 40초.">
+</picture>
 
 <details>
 <summary>막혔던 지점들</summary>

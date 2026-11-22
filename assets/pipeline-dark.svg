@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 830 172" width="830" height="172" role="img" aria-label="공정 도면 심볼 인식: 심볼 검출, 텍스트 짝짓기, 배관 연결, CAD 원본 추출 순서로 처리. 운영 기본 엔진으로 채택, 검출 모델 mAP50 0.986, 재현율 0.988(내부 검증셋)." font-family="Pretendard, -apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Segoe UI', sans-serif" style="font-variant-numeric: tabular-nums">
+<style>
+.s rect{stroke:#30363D} .s text{fill:#F0F6FC}
+.s4 rect{stroke:#388BFD} .s4 text{fill:#388BFD}
+@media (prefers-reduced-motion:no-preference){
+.s1 rect,.s2 rect,.s3 rect,.s4 rect{animation:12s steps(1) infinite}
+.s1 text,.s2 text,.s3 text,.s4 text{animation:12s steps(1) infinite}
+.s1 rect{animation-name:b1}.s1 text{animation-name:t1}
+.s2 rect{animation-name:b2}.s2 text{animation-name:t2}
+.s3 rect{animation-name:b3}.s3 text{animation-name:t3}
+.s4 rect{animation-name:b4}.s4 text{animation-name:t4}
+@keyframes b1{0%{stroke:#388BFD}16.66%{stroke:#30363D}}
+@keyframes t1{0%{fill:#388BFD}16.66%{fill:#F0F6FC}}
+@keyframes b2{0%{stroke:#30363D}16.66%{stroke:#388BFD}33.33%{stroke:#30363D}}
+@keyframes t2{0%{fill:#F0F6FC}16.66%{fill:#388BFD}33.33%{fill:#F0F6FC}}
+@keyframes b3{0%{stroke:#30363D}33.33%{stroke:#388BFD}50%{stroke:#30363D}}
+@keyframes t3{0%{fill:#F0F6FC}33.33%{fill:#388BFD}50%{fill:#F0F6FC}}
+@keyframes b4{0%{stroke:#30363D}50%{stroke:#388BFD}}
+@keyframes t4{0%{fill:#F0F6FC}50%{fill:#388BFD}}
+}
+</style>
+<rect x="0.5" y="0.5" width="829" height="171" rx="4" fill="#161B22" stroke="#30363D"/>
+<text x="16" y="28" font-size="16" font-weight="700" fill="#F0F6FC">공정 도면 심볼 인식</text>
+<g class="s s1"><rect x="16.5" y="44.5" width="168.5" height="63" rx="4" fill="#0D1117"/><text x="100.75" y="81" text-anchor="middle" font-size="15" font-weight="600">심볼 검출</text></g>
+<path d="M195.5 76H215.5M210.5 71L215.5 76L210.5 81" fill="none" stroke="#8B949E" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<g class="s s2"><rect x="226" y="44.5" width="168.5" height="63" rx="4" fill="#0D1117"/><text x="310.25" y="81" text-anchor="middle" font-size="15" font-weight="600">텍스트 짝짓기</text></g>
+<path d="M405 76H425M420 71L425 76L420 81" fill="none" stroke="#8B949E" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<g class="s s3"><rect x="435.5" y="44.5" width="168.5" height="63" rx="4" fill="#0D1117"/><text x="519.75" y="81" text-anchor="middle" font-size="15" font-weight="600">배관 연결</text></g>
+<path d="M614.5 76H634.5M629.5 71L634.5 76L629.5 81" fill="none" stroke="#8B949E" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<g class="s s4"><rect x="645" y="44.5" width="168.5" height="63" rx="4" fill="#0D1117"/><text x="729.25" y="81" text-anchor="middle" font-size="15" font-weight="600">CAD 원본 추출</text></g>
+<line x1="16" y1="128.5" x2="814" y2="128.5" stroke="#30363D"/>
+<text x="16" y="150" font-size="13" fill="#8B949E">운영 기본 엔진으로 채택, 검출 모델 mAP50 0.986, 재현율 0.988(내부 검증셋)</text>
+</svg>

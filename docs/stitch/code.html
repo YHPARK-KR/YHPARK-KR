@@ -1,0 +1,404 @@
+<!DOCTYPE html>
+
+<html lang="en"><head><meta charset="utf-8"/><meta content="width=device-width, initial-scale=1.0" name="viewport"/><meta content="web_standard" name="shell-type"/><link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/><style>@layer base { html, body { margin: 0; padding: 0; } body { overscroll-behavior: none; } main > :first-child { margin-top: 0 !important; } main > :last-child { margin-bottom: 0 !important; } } ::-webkit-scrollbar { display: none; }</style><script src="https://cdn.tailwindcss.com"></script><script id="tailwind-config">tailwind.config = { darkMode: "class", theme: { extend: { "colors": { "on-background": "#191c1e", "on-error-container": "#93000a", "on-error": "#ffffff", "surface-container-low": "#f2f4f6", "inverse-primary": "#adc6ff", "on-primary": "#ffffff", "tertiary": "#913900", "surface-container-lowest": "#ffffff", "surface-container-high": "#e6e8ea", "on-secondary-container": "#596372", "surface-container": "#eceef0", "error": "#ba1a1a", "primary-fixed-dim": "#adc6ff", "surface-tint": "#005bc0", "on-tertiary-container": "#ffece5", "surface": "#f8f9fb", "on-secondary-fixed": "#121c28", "outline": "#727785", "on-surface": "#191c1e", "on-primary-fixed": "#001a41", "inverse-on-surface": "#eff1f3", "on-secondary-fixed-variant": "#3e4755", "tertiary-fixed": "#ffdbcc", "primary-container": "#0969da", "secondary-fixed": "#d9e3f4", "surface-container-highest": "#e0e3e5", "background": "#f8f9fb", "on-tertiary-fixed": "#351000", "secondary-container": "#d6e0f1", "surface-bright": "#f8f9fb", "primary-fixed": "#d8e2ff", "tertiary-fixed-dim": "#ffb693", "on-tertiary-fixed-variant": "#7a2f00", "primary": "#0051ae", "on-primary-fixed-variant": "#004493", "error-container": "#ffdad6", "tertiary-container": "#b84b00", "inverse-surface": "#2d3133", "surface-dim": "#d8dadc", "secondary": "#555f6d", "surface-variant": "#e0e3e5", "on-primary-container": "#ecefff", "on-surface-variant": "#424753", "secondary-fixed-dim": "#bdc7d8", "on-tertiary": "#ffffff", "outline-variant": "#c2c6d6", "on-secondary": "#ffffff" }, "borderRadius": { "DEFAULT": "0.125rem", "lg": "0.25rem", "xl": "0.5rem", "full": "0.75rem" }, "spacing": { "space-xl": "24px", "space-xs": "4px", "space-sm": "8px", "space-lg": "16px", "gutter": "12px", "margin": "16px", "space-md": "12px" }, "fontFamily": { "label-sm": [ "\"Geist, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif\"" ], "headline-lg": [ "\"Geist, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif\"" ], "metric-display-mobile": [ "\"Geist, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif\"" ], "body-sm": [ "\"Geist, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif\"" ], "body-md": [ "\"Geist, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif\"" ], "headline-md": [ "\"Geist, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif\"" ], "metric-display": [ "\"Geist, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif\"" ], "headline-xl": [ "\"Geist, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif\"" ], "metric-delta": [ "\"Geist, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif\"" ] }, "fontSize": { "label-sm": [ "11px", { "lineHeight": "14px", "fontWeight": "500" } ], "headline-lg": [ "20px", { "lineHeight": "26px", "fontWeight": "600" } ], "metric-display-mobile": [ "22px", { "lineHeight": "28px", "fontWeight": "600" } ], "body-sm": [ "12px", { "lineHeight": "16px", "fontWeight": "400" } ], "body-md": [ "14px", { "lineHeight": "20px", "fontWeight": "400" } ], "headline-md": [ "16px", { "lineHeight": "22px", "fontWeight": "600" } ], "metric-display": [ "28px", { "lineHeight": "32px", "fontWeight": "600" } ], "headline-xl": [ "28px", { "lineHeight": "34px", "fontWeight": "600" } ], "metric-delta": [ "16px", { "lineHeight": "20px", "fontWeight": "500" } ] } } } };</script></head><body class="bg-surface font-body-md text-on-surface antialiased"><header class="fixed top-0 left-0 w-full z-50 bg-surface-container-lowest"><div class="h-14 max-w-[830px] mx-auto px-margin flex items-center justify-between"><div class="flex items-center gap-space-sm"><span class="material-symbols-outlined text-[18px] text-secondary">terminal</span><div class="flex items-center gap-space-xs"><span class="font-headline-md text-headline-md text-on-surface">README.md</span><span class="font-label-sm text-label-sm text-secondary px-space-xs py-0.5 bg-surface-container rounded">830px Spec</span></div></div><div class="flex items-center gap-space-md"><nav class="flex items-center gap-space-lg" data-active-classes="text-primary font-headline-md"><a aria-current="page" class="transition-colors text-primary font-headline-md" data-path="readme-view" href="#">Document View</a><a class="font-body-sm text-body-sm text-on-surface-variant hover:text-on-surface transition-colors" data-path="metrology-metrics" href="#">Metrology Metrics</a><a class="font-body-sm text-body-sm text-on-surface-variant hover:text-on-surface transition-colors" data-path="svg-contrast-inspector" href="#">Contrast Bench</a></nav><div class="flex items-center gap-space-xs bg-surface-container-low p-space-xs rounded"><button class="px-space-xs py-0.5 rounded font-label-sm text-label-sm bg-surface-container-lowest text-on-surface" type="button">Light #fff</button><button class="px-space-xs py-0.5 rounded font-label-sm text-label-sm text-secondary hover:text-on-surface" type="button">Dark #0d1117</button></div><div class="w-8 h-8 rounded-full bg-primary flex items-center justify-center"><span class="material-symbols-outlined text-on-primary text-[18px]">person</span></div></div></div></header><main class="w-full pt-14 bg-surface"><div class="max-w-[830px] mx-auto px-margin py-space-xl bg-surface-container-lowest min-h-[calc(100vh-3.5rem)]"><div class="flex flex-col w-full text-on-surface">
+<div class="w-full flex flex-col transition-colors duration-150" data-theme="light" id="readme-canvas">
+<!-- THEME TOGGLE CONTROL BAR (Integrated top spec panel simulating GitHub desktop interface) -->
+<div class="w-full flex items-center justify-between pb-space-md mb-space-lg" style="border-bottom: 1px solid var(--gh-border, #d0d7de);">
+<div class="flex items-center gap-space-xs font-label-sm text-label-sm text-secondary">
+<span>PROFILE_README.md</span>
+<span>/</span>
+<span class="tabular-nums">830px CANONICAL</span>
+</div>
+<div class="flex items-center gap-space-xs">
+<button class="px-space-sm py-0.5 rounded font-label-sm text-label-sm bg-surface-container-high text-on-surface" id="theme-btn-light" style="border: 1px solid var(--gh-border, #d0d7de);" type="button">
+          Light #ffffff
+        </button>
+<button class="px-space-sm py-0.5 rounded font-label-sm text-label-sm text-secondary hover:text-on-surface bg-surface-container-lowest" id="theme-btn-dark" style="border: 1px solid var(--gh-border, #d0d7de);" type="button">
+          Dark #0d1117
+        </button>
+</div>
+</div>
+<!-- 1. TOP BANNER FIGURE (SVG/Vector-styled panel with spec notation, NO wordmark) -->
+<section class="w-full mb-space-xl">
+<div class="w-full rounded-[4px] p-space-lg flex flex-col justify-between" style="border: 1px solid var(--gh-border, #d0d7de); background-color: var(--gh-canvas-subtle, #f6f8fa);">
+<div class="flex items-start justify-between gap-space-md">
+<div class="flex flex-col gap-space-xs max-w-[620px]">
+<h1 class="font-headline-lg text-headline-lg text-on-surface tracking-tight" style="color: var(--gh-fg-default, #1f2328);">
+              맡긴 결과가 맞는지 무엇으로 확인할지를 붙잡고 있습니다.
+            </h1>
+<p class="font-body-md text-body-md text-secondary" style="color: var(--gh-fg-muted, #656d76);">
+              산업 자동화 현장에서 약 3년을 보내고 AI로 넘어왔습니다.
+            </p>
+</div>
+<div class="flex flex-col items-end shrink-0 pt-0.5">
+<span class="font-label-sm text-label-sm tabular-nums tracking-wide px-space-xs py-0.5 rounded" style="background-color: var(--gh-canvas-default, #ffffff); border: 1px solid var(--gh-border, #d0d7de); color: var(--gh-fg-muted, #656d76);">
+              SPEC 830px | CAL-2024 | REV 3.1
+            </span>
+</div>
+</div>
+<div class="mt-space-lg pt-space-sm flex items-center justify-between" style="border-top: 1px solid var(--gh-border-subtle, #e6e8ea);">
+<div class="flex items-center gap-space-md">
+<span class="font-label-sm text-label-sm text-secondary tabular-nums" style="color: var(--gh-fg-muted, #656d76);">ENV: INDUSTRIAL_METROLOGY</span>
+<span class="font-label-sm text-label-sm text-secondary tabular-nums" style="color: var(--gh-fg-muted, #656d76);">LATENCY_BUDGET: REALTIME_DETERMINISTIC</span>
+</div>
+<span class="font-label-sm text-label-sm tabular-nums" style="color: var(--gh-accent, #0969da);">STATUS: VERIFIED</span>
+</div>
+</div>
+</section>
+<!-- 2. "직접 열어 볼 수 있는 것" (Heading 2, 2x2 grid of project figure items) -->
+<section class="w-full mb-space-xl">
+<h2 class="font-headline-lg text-headline-lg text-on-surface mb-space-md pb-space-xs" style="color: var(--gh-fg-default, #1f2328); border-bottom: 1px solid var(--gh-border, #d0d7de);">
+        직접 열어 볼 수 있는 것
+      </h2>
+<div class="grid grid-cols-1 md:grid-cols-2 gap-space-md w-full">
+<!-- Item 1: 올팍 길잡이 -->
+<article class="flex flex-col justify-between p-space-md rounded-[4px]" style="border: 1px solid var(--gh-border, #d0d7de); background-color: var(--gh-canvas-default, #ffffff);">
+<div class="flex flex-col mb-space-md">
+<div class="flex items-center justify-between mb-space-xs">
+<h3 class="font-headline-md text-headline-md" style="color: var(--gh-fg-default, #1f2328);">올팍 길잡이</h3>
+<span class="font-label-sm text-label-sm tabular-nums" style="color: var(--gh-fg-muted, #656d76);">ERR ≤ 2.4m</span>
+</div>
+<p class="font-body-sm text-body-sm" style="color: var(--gh-fg-muted, #656d76);">
+              실내외 복합 도면과 비컨 신호 오차를 결합한 도보 내비게이션 엔진. 위성 항법 음영 구역에서 2.4m 이내 정밀 측위를 보장합니다.
+            </p>
+</div>
+<div class="flex items-center gap-space-md pt-space-xs font-body-sm text-body-sm" style="border-top: 1px solid var(--gh-border-subtle, #eceef0);">
+<a class="hover:underline inline-flex items-center gap-space-xs" href="#" style="color: var(--gh-accent, #0969da);">
+<span>바로 열기</span>
+<span class="font-label-sm text-label-sm">→</span>
+</a>
+<a class="hover:underline" href="#" style="color: var(--gh-fg-muted, #656d76);">코드</a>
+</div>
+</article>
+<!-- Item 2: Jobdash -->
+<article class="flex flex-col justify-between p-space-md rounded-[4px]" style="border: 1px solid var(--gh-border, #d0d7de); background-color: var(--gh-canvas-default, #ffffff);">
+<div class="flex flex-col mb-space-md">
+<div class="flex items-center justify-between mb-space-xs">
+<h3 class="font-headline-md text-headline-md" style="color: var(--gh-fg-default, #1f2328);">Jobdash</h3>
+<span class="font-label-sm text-label-sm tabular-nums" style="color: var(--gh-fg-muted, #656d76);">VECTOR MATCH</span>
+</div>
+<p class="font-body-sm text-body-sm" style="color: var(--gh-fg-muted, #656d76);">
+              채용 공고의 자격 요건과 실무 이력을 벡터 임베딩으로 대조하는 분석기. 문맥 기반 누락 역량 검출 및 정합률을 산출합니다.
+            </p>
+</div>
+<div class="flex items-center gap-space-md pt-space-xs font-body-sm text-body-sm" style="border-top: 1px solid var(--gh-border-subtle, #eceef0);">
+<a class="hover:underline inline-flex items-center gap-space-xs" href="#" style="color: var(--gh-accent, #0969da);">
+<span>바로 열기</span>
+<span class="font-label-sm text-label-sm">→</span>
+</a>
+<a class="hover:underline" href="#" style="color: var(--gh-fg-muted, #656d76);">코드</a>
+</div>
+</article>
+<!-- Item 3: 밭에서 묻는 시세 비서 -->
+<article class="flex flex-col justify-between p-space-md rounded-[4px]" style="border: 1px solid var(--gh-border, #d0d7de); background-color: var(--gh-canvas-default, #ffffff);">
+<div class="flex flex-col mb-space-md">
+<div class="flex items-center justify-between mb-space-xs">
+<h3 class="font-headline-md text-headline-md" style="color: var(--gh-fg-default, #1f2328);">밭에서 묻는 시세 비서</h3>
+<span class="font-label-sm text-label-sm tabular-nums" style="color: var(--gh-fg-muted, #656d76);">TTFT 1.2s</span>
+</div>
+<p class="font-body-sm text-body-sm" style="color: var(--gh-fg-muted, #656d76);">
+              공판장 실시간 경매 데이터와 현장 음성 질의를 연결한 RAG 파이프라인. 모바일 환경에서 1.2초 내 가격 동향을 요약 제공합니다.
+            </p>
+</div>
+<div class="flex items-center gap-space-md pt-space-xs font-body-sm text-body-sm" style="border-top: 1px solid var(--gh-border-subtle, #eceef0);">
+<a class="hover:underline inline-flex items-center gap-space-xs" href="#" style="color: var(--gh-accent, #0969da);">
+<span>바로 열기</span>
+<span class="font-label-sm text-label-sm">→</span>
+</a>
+<a class="hover:underline" href="#" style="color: var(--gh-fg-muted, #656d76);">코드</a>
+</div>
+</article>
+<!-- Item 4: 핏캐스트 -->
+<article class="flex flex-col justify-between p-space-md rounded-[4px]" style="border: 1px solid var(--gh-border, #d0d7de); background-color: var(--gh-canvas-default, #ffffff);">
+<div class="flex flex-col mb-space-md">
+<div class="flex items-center justify-between mb-space-xs">
+<h3 class="font-headline-md text-headline-md" style="color: var(--gh-fg-default, #1f2328);">핏캐스트</h3>
+<span class="font-label-sm text-label-sm tabular-nums" style="color: var(--gh-fg-muted, #656d76);">PWR -42%</span>
+</div>
+<p class="font-body-sm text-body-sm" style="color: var(--gh-fg-muted, #656d76);">
+              운동 생체 신호 시계열과 부하 한계치를 실시간 추론하는 온디바이스 모니터. 엣지 가속기를 통해 배터리 소모를 42% 절감했습니다.
+            </p>
+</div>
+<div class="flex items-center gap-space-md pt-space-xs font-body-sm text-body-sm" style="border-top: 1px solid var(--gh-border-subtle, #eceef0);">
+<a class="hover:underline inline-flex items-center gap-space-xs" href="#" style="color: var(--gh-accent, #0969da);">
+<span>바로 열기</span>
+<span class="font-label-sm text-label-sm">→</span>
+</a>
+<a class="hover:underline" href="#" style="color: var(--gh-fg-muted, #656d76);">코드</a>
+</div>
+</article>
+</div>
+</section>
+<!-- 3. "팀 프로젝트" (Heading 2, Pipeline diagram + caption + 3-col 4-row table) -->
+<section class="w-full mb-space-xl">
+<h2 class="font-headline-lg text-headline-lg text-on-surface mb-space-md pb-space-xs" style="color: var(--gh-fg-default, #1f2328); border-bottom: 1px solid var(--gh-border, #d0d7de);">
+        팀 프로젝트
+      </h2>
+<!-- 4-step pipeline diagram figure (830px width SVG/vector presentation) -->
+<div class="w-full rounded-[4px] p-space-md mb-space-xs overflow-x-auto" style="border: 1px solid var(--gh-border, #d0d7de); background-color: var(--gh-canvas-subtle, #f6f8fa);">
+<svg class="w-full h-auto min-w-[620px] select-none" fill="none" viewbox="0 0 798 84" xmlns="http://www.w3.org/2000/svg">
+<!-- Step 1 -->
+<rect fill="var(--gh-canvas-default, #ffffff)" height="82" rx="4" stroke="var(--gh-border, #d0d7de)" stroke-width="1" width="168" x="1" y="1"></rect>
+<text fill="var(--gh-fg-muted, #656d76)" font-family="Geist, -apple-system, sans-serif" font-size="11" font-weight="500" x="16" y="24">[01] DETECTION</text>
+<text fill="var(--gh-fg-default, #1f2328)" font-family="Geist, -apple-system, sans-serif" font-size="15" font-weight="600" x="16" y="52">심볼 검출</text>
+<!-- Arrow 1 -> 2 -->
+<path d="M178 42 H202 M196 36 L202 42 L196 48" stroke="var(--gh-fg-muted, #8c959f)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path>
+<!-- Step 2 -->
+<rect fill="var(--gh-canvas-default, #ffffff)" height="82" rx="4" stroke="var(--gh-border, #d0d7de)" stroke-width="1" width="168" x="210" y="1"></rect>
+<text fill="var(--gh-fg-muted, #656d76)" font-family="Geist, -apple-system, sans-serif" font-size="11" font-weight="500" x="226" y="24">[02] PAIRING</text>
+<text fill="var(--gh-fg-default, #1f2328)" font-family="Geist, -apple-system, sans-serif" font-size="15" font-weight="600" x="226" y="52">텍스트 짝짓기</text>
+<!-- Arrow 2 -> 3 -->
+<path d="M386 42 H410 M404 36 L410 42 L404 48" stroke="var(--gh-fg-muted, #8c959f)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path>
+<!-- Step 3 -->
+<rect fill="var(--gh-canvas-default, #ffffff)" height="82" rx="4" stroke="var(--gh-border, #d0d7de)" stroke-width="1" width="168" x="418" y="1"></rect>
+<text fill="var(--gh-fg-muted, #656d76)" font-family="Geist, -apple-system, sans-serif" font-size="11" font-weight="500" x="434" y="24">[03] TOPOLOGY</text>
+<text fill="var(--gh-fg-default, #1f2328)" font-family="Geist, -apple-system, sans-serif" font-size="15" font-weight="600" x="434" y="52">배관 연결</text>
+<!-- Arrow 3 -> 4 -->
+<path d="M594 42 H618 M612 36 L618 42 L612 48" stroke="var(--gh-fg-muted, #8c959f)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path>
+<!-- Step 4 -->
+<rect fill="var(--gh-canvas-default, #ffffff)" height="82" rx="4" stroke="var(--gh-accent, #0969da)" stroke-width="1" width="170" x="626" y="1"></rect>
+<text fill="var(--gh-accent, #0969da)" font-family="Geist, -apple-system, sans-serif" font-size="11" font-weight="500" x="642" y="24">[04] EXTRACTION</text>
+<text fill="var(--gh-fg-default, #1f2328)" font-family="Geist, -apple-system, sans-serif" font-size="15" font-weight="600" x="642" y="52">CAD 원본 추출</text>
+</svg>
+</div>
+<p class="font-body-sm text-body-sm mb-space-md tabular-nums" style="color: var(--gh-fg-muted, #656d76);">
+        운영 기본 엔진으로 채택, 검출 모델 mAP50 0.986, 재현율 0.988(내부 검증셋)
+      </p>
+<!-- 3-col exactly 4-row plain table -->
+<div class="w-full overflow-x-auto rounded-[4px]" style="border: 1px solid var(--gh-border, #d0d7de);">
+<table class="w-full text-left border-collapse">
+<thead>
+<tr style="background-color: var(--gh-canvas-subtle, #f6f8fa); border-bottom: 1px solid var(--gh-border, #d0d7de);">
+<th class="p-space-sm font-label-sm text-label-sm w-[24%]" style="color: var(--gh-fg-default, #1f2328);">프로젝트</th>
+<th class="p-space-sm font-label-sm text-label-sm w-[40%]" style="color: var(--gh-fg-default, #1f2328);">맡은 일</th>
+<th class="p-space-sm font-label-sm text-label-sm w-[36%]" style="color: var(--gh-fg-default, #1f2328);">결과</th>
+</tr>
+</thead>
+<tbody class="font-body-sm text-body-sm" style="color: var(--gh-fg-default, #1f2328);">
+<!-- Row 1 -->
+<tr style="border-bottom: 1px solid var(--gh-border-subtle, #eceef0);">
+<td class="p-space-sm align-top font-headline-md text-body-sm">배관 계장도(P&amp;ID) 자동 전산화</td>
+<td class="p-space-sm align-top" style="color: var(--gh-fg-muted, #656d76);">심볼 객체 검출 모델 파이프라인 구축 및 검증셋 정제</td>
+<td class="p-space-sm align-top tabular-nums">내부 검증셋 mAP50 0.986 달성, 수기 입력 대비 공수 73% 절감</td>
+</tr>
+<!-- Row 2 -->
+<tr style="border-bottom: 1px solid var(--gh-border-subtle, #eceef0);">
+<td class="p-space-sm align-top font-headline-md text-body-sm">공정 시계열 이상 징후 조기 감지</td>
+<td class="p-space-sm align-top" style="color: var(--gh-fg-muted, #656d76);">센서 결측치 보간 알고리즘 및 롤링 윈도우 추론 최적화</td>
+<td class="p-space-sm align-top tabular-nums">오경보율 14.2%에서 2.1%로 감소, 설비 다운타임 41시간 방지</td>
+</tr>
+<!-- Row 3 -->
+<tr style="border-bottom: 1px solid var(--gh-border-subtle, #eceef0);">
+<td class="p-space-sm align-top font-headline-md text-body-sm">반도체 패키징 외관 비전 검사기</td>
+<td class="p-space-sm align-top" style="color: var(--gh-fg-muted, #656d76);">클래스 불균형 해결을 위한 데이터 증강 및 에지 디바이스 경량화</td>
+<td class="p-space-sm align-top tabular-nums">불량 검출 누락률 0.04% 이하 유지, 프레임 레이트 60fps 확보</td>
+</tr>
+<!-- Row 4 -->
+<tr>
+<td class="p-space-sm align-top font-headline-md text-body-sm">현장 작업자 안전 규정 준수 트래커</td>
+<td class="p-space-sm align-top" style="color: var(--gh-fg-muted, #656d76);">멀티 카메라 다객체 추적 및 위험 구역 침범 로직 구현</td>
+<td class="p-space-sm align-top tabular-nums">안전사고 위험 행동 감지율 99.1%, 주야간 환경 편차 1.8% 이내 통제</td>
+</tr>
+</tbody>
+</table>
+</div>
+</section>
+<!-- 4. "혼자 만들어 쓰는 것" (Heading 2, Plain two-column table, exactly 5 rows) -->
+<section class="w-full mb-space-xl">
+<h2 class="font-headline-lg text-headline-lg text-on-surface mb-space-md pb-space-xs" style="color: var(--gh-fg-default, #1f2328); border-bottom: 1px solid var(--gh-border, #d0d7de);">
+        혼자 만들어 쓰는 것
+      </h2>
+<div class="w-full overflow-x-auto rounded-[4px]" style="border: 1px solid var(--gh-border, #d0d7de);">
+<table class="w-full text-left border-collapse">
+<thead>
+<tr style="background-color: var(--gh-canvas-subtle, #f6f8fa); border-bottom: 1px solid var(--gh-border, #d0d7de);">
+<th class="p-space-sm font-label-sm text-label-sm w-[34%]" style="color: var(--gh-fg-default, #1f2328);">도구</th>
+<th class="p-space-sm font-label-sm text-label-sm w-[66%]" style="color: var(--gh-fg-default, #1f2328);">확인한 것</th>
+</tr>
+</thead>
+<tbody class="font-body-sm text-body-sm" style="color: var(--gh-fg-default, #1f2328);">
+<!-- Row 1 -->
+<tr style="border-bottom: 1px solid var(--gh-border-subtle, #eceef0);">
+<td class="p-space-sm align-top font-headline-md text-body-sm">PDF OCR 텍스트 레이아웃 무결성 검증기</td>
+<td class="p-space-sm align-top tabular-nums" style="color: var(--gh-fg-muted, #656d76);">열과 행이 뒤틀린 복합 서식 문서에서 텍스트 추출 좌표 오차가 1.5픽셀 이내인지 확인</td>
+</tr>
+<!-- Row 2 -->
+<tr style="border-bottom: 1px solid var(--gh-border-subtle, #eceef0);">
+<td class="p-space-sm align-top font-headline-md text-body-sm">로컬 LLM 토큰 생성 지연시간 로거</td>
+<td class="p-space-sm align-top tabular-nums" style="color: var(--gh-fg-muted, #656d76);">프롬프트 캐시 적중 여부에 따른 첫 토큰 도달 시간(TTFT)과 초당 처리량의 분산 측정</td>
+</tr>
+<!-- Row 3 -->
+<tr style="border-bottom: 1px solid var(--gh-border-subtle, #eceef0);">
+<td class="p-space-sm align-top font-headline-md text-body-sm">데이터셋 라벨 편향 및 중복 클러스터러</td>
+<td class="p-space-sm align-top tabular-nums" style="color: var(--gh-fg-muted, #656d76);">코사인 유사도 0.92 이상 중복 샘플 자동 격리 및 소수 클래스 경계면 밀도 확인</td>
+</tr>
+<!-- Row 4 -->
+<tr style="border-bottom: 1px solid var(--gh-border-subtle, #eceef0);">
+<td class="p-space-sm align-top font-headline-md text-body-sm">시계열 센서 드리프트 자동 보정 스크립트</td>
+<td class="p-space-sm align-top tabular-nums" style="color: var(--gh-fg-muted, #656d76);">온도 변화에 따른 스트레인 게이지 영점 이동 패턴과 보정 후 잔차 정규분포 확인</td>
+</tr>
+<!-- Row 5 -->
+<tr>
+<td class="p-space-sm align-top font-headline-md text-body-sm">경량화 모델 양자화 오차 비교 프로파일러</td>
+<td class="p-space-sm align-top tabular-nums" style="color: var(--gh-fg-muted, #656d76);">FP32 대비 INT8 양자화 시 텐서 레이어별 코사인 유사도 하락 지점 및 추론 속도 검증</td>
+</tr>
+</tbody>
+</table>
+</div>
+</section>
+<!-- 5. "같은 조건에서 바꾸기 전과 후" (Heading 2, Before/after horizontal bar chart figure) -->
+<section class="w-full mb-space-xl">
+<h2 class="font-headline-lg text-headline-lg text-on-surface mb-space-md pb-space-xs" style="color: var(--gh-fg-default, #1f2328); border-bottom: 1px solid var(--gh-border, #d0d7de);">
+        같은 조건에서 바꾸기 전과 후
+      </h2>
+<!-- Pure Instrument Bench Figure Container -->
+<div class="w-full rounded-[4px] p-space-lg flex flex-col gap-space-lg" style="border: 1px solid var(--gh-border, #d0d7de); background-color: var(--gh-canvas-default, #ffffff);">
+<!-- Group 1: 노트 검색 R@10 -->
+<div class="flex flex-col gap-space-xs">
+<div class="flex items-center justify-between">
+<span class="font-headline-md text-body-sm" style="color: var(--gh-fg-default, #1f2328);">노트 검색 R@10</span>
+<span class="font-label-sm text-label-sm tabular-nums" style="color: var(--gh-accent, #0969da);">+10.0%p</span>
+</div>
+<!-- Before Bar -->
+<div class="flex items-center gap-space-sm w-full">
+<span class="w-16 font-label-sm text-label-sm shrink-0" style="color: var(--gh-fg-muted, #656d76);">이전</span>
+<div class="flex-1 bg-surface-container-high rounded-[2px] h-5 relative overflow-hidden" style="background-color: var(--gh-canvas-subtle, #f6f8fa);">
+<div class="h-full rounded-[2px]" style="width: 78.2%; background-color: var(--gh-bar-before, #8c959f);"></div>
+</div>
+<span class="w-16 font-body-sm text-body-sm tabular-nums text-right shrink-0" style="color: var(--gh-fg-muted, #656d76);">78.2%</span>
+</div>
+<!-- After Bar -->
+<div class="flex items-center gap-space-sm w-full">
+<span class="w-16 font-label-sm text-label-sm shrink-0" style="color: var(--gh-accent, #0969da);">개선</span>
+<div class="flex-1 bg-surface-container-high rounded-[2px] h-5 relative overflow-hidden" style="background-color: var(--gh-canvas-subtle, #f6f8fa);">
+<div class="h-full rounded-[2px]" style="width: 88.2%; background-color: var(--gh-accent, #0969da);"></div>
+</div>
+<span class="w-16 font-headline-md text-body-sm tabular-nums text-right shrink-0" style="color: var(--gh-accent, #0969da);">88.2%</span>
+</div>
+</div>
+<div class="w-full" style="border-top: 1px solid var(--gh-border-subtle, #eceef0);"></div>
+<!-- Group 2: 개인정보 가림 재현율 -->
+<div class="flex flex-col gap-space-xs">
+<div class="flex items-center justify-between">
+<span class="font-headline-md text-body-sm" style="color: var(--gh-fg-default, #1f2328);">개인정보 가림 재현율</span>
+<span class="font-label-sm text-label-sm tabular-nums" style="color: var(--gh-accent, #0969da);">1.000 COMPLETE</span>
+</div>
+<!-- Before Bar -->
+<div class="flex items-center gap-space-sm w-full">
+<span class="w-16 font-label-sm text-label-sm shrink-0" style="color: var(--gh-fg-muted, #656d76);">이전</span>
+<div class="flex-1 bg-surface-container-high rounded-[2px] h-5 relative overflow-hidden" style="background-color: var(--gh-canvas-subtle, #f6f8fa);">
+<div class="h-full rounded-[2px]" style="width: 87.5%; background-color: var(--gh-bar-before, #8c959f);"></div>
+</div>
+<span class="w-16 font-body-sm text-body-sm tabular-nums text-right shrink-0" style="color: var(--gh-fg-muted, #656d76);">0.875</span>
+</div>
+<!-- After Bar -->
+<div class="flex items-center gap-space-sm w-full">
+<span class="w-16 font-label-sm text-label-sm shrink-0" style="color: var(--gh-accent, #0969da);">개선</span>
+<div class="flex-1 bg-surface-container-high rounded-[2px] h-5 relative overflow-hidden" style="background-color: var(--gh-canvas-subtle, #f6f8fa);">
+<div class="h-full rounded-[2px]" style="width: 100.0%; background-color: var(--gh-accent, #0969da);"></div>
+</div>
+<span class="w-16 font-headline-md text-body-sm tabular-nums text-right shrink-0" style="color: var(--gh-accent, #0969da);">1.000</span>
+</div>
+</div>
+<div class="w-full" style="border-top: 1px solid var(--gh-border-subtle, #eceef0);"></div>
+<!-- Group 3: 관상네컷 응답 (shorter is better) -->
+<div class="flex flex-col gap-space-xs">
+<div class="flex items-center justify-between">
+<div class="flex items-center gap-space-xs">
+<span class="font-headline-md text-body-sm" style="color: var(--gh-fg-default, #1f2328);">관상네컷 응답</span>
+<span class="font-label-sm text-label-sm" style="color: var(--gh-fg-muted, #656d76);">(지연시간 단축 = 우수)</span>
+</div>
+<span class="font-label-sm text-label-sm tabular-nums" style="color: var(--gh-accent, #0969da);">-50.0% LATENCY</span>
+</div>
+<!-- Before Bar (80s - 100% relative baseline) -->
+<div class="flex items-center gap-space-sm w-full">
+<span class="w-16 font-label-sm text-label-sm shrink-0" style="color: var(--gh-fg-muted, #656d76);">이전</span>
+<div class="flex-1 bg-surface-container-high rounded-[2px] h-5 relative overflow-hidden" style="background-color: var(--gh-canvas-subtle, #f6f8fa);">
+<div class="h-full rounded-[2px]" style="width: 100.0%; background-color: var(--gh-bar-before, #8c959f);"></div>
+</div>
+<span class="w-16 font-body-sm text-body-sm tabular-nums text-right shrink-0" style="color: var(--gh-fg-muted, #656d76);">80초</span>
+</div>
+<!-- After Bar (40s - 50% relative bar) -->
+<div class="flex items-center gap-space-sm w-full">
+<span class="w-16 font-label-sm text-label-sm shrink-0" style="color: var(--gh-accent, #0969da);">개선</span>
+<div class="flex-1 bg-surface-container-high rounded-[2px] h-5 relative overflow-hidden" style="background-color: var(--gh-canvas-subtle, #f6f8fa);">
+<div class="h-full rounded-[2px]" style="width: 50.0%; background-color: var(--gh-accent, #0969da);"></div>
+</div>
+<span class="w-16 font-headline-md text-body-sm tabular-nums text-right shrink-0" style="color: var(--gh-accent, #0969da);">40초</span>
+</div>
+</div>
+</div>
+</section>
+<!-- 6. "다뤄 본 기술" (Heading 2, One plain sentence list) -->
+<section class="w-full pb-space-xl">
+<h2 class="font-headline-lg text-headline-lg text-on-surface mb-space-md pb-space-xs" style="color: var(--gh-fg-default, #1f2328); border-bottom: 1px solid var(--gh-border, #d0d7de);">
+        다뤄 본 기술
+      </h2>
+<p class="font-body-md text-body-md leading-relaxed" style="color: var(--gh-fg-default, #1f2328);">
+        Python, PyTorch, TensorRT, OpenCV, FastAPI, Docker, ONNX Runtime, scikit-learn, Hugging Face, Ray, PostgreSQL, Linux 환경에서 모델 파이프라인 구축 및 현장 배포와 성능 검증을 수행했습니다.
+      </p>
+</section>
+</div>
+</div>
+<script>
+  (function initMetrologyTheme() {
+    const canvas = document.getElementById('readme-canvas');
+    const btnLight = document.getElementById('theme-btn-light');
+    const btnDark = document.getElementById('theme-btn-dark');
+
+    const themes = {
+      light: {
+        '--gh-canvas-default': '#ffffff',
+        '--gh-canvas-subtle': '#f6f8fa',
+        '--gh-border': '#d0d7de',
+        '--gh-border-subtle': '#eceef0',
+        '--gh-fg-default': '#1f2328',
+        '--gh-fg-muted': '#656d76',
+        '--gh-accent': '#0969da',
+        '--gh-bar-before': '#8c959f'
+      },
+      dark: {
+        '--gh-canvas-default': '#0d1117',
+        '--gh-canvas-subtle': '#161b22',
+        '--gh-border': '#30363d',
+        '--gh-border-subtle': '#21262d',
+        '--gh-fg-default': '#f0f6fc',
+        '--gh-fg-muted': '#8b949e',
+        '--gh-accent': '#2f81f7',
+        '--gh-bar-before': '#6e7681'
+      }
+    };
+
+    function applyTheme(mode) {
+      if (!canvas) return;
+      canvas.setAttribute('data-theme', mode);
+      const vars = themes[mode];
+      for (const [key, value] of Object.entries(vars)) {
+        canvas.style.setProperty(key, value);
+      }
+
+      if (mode === 'light') {
+        btnLight.className = "px-space-sm py-0.5 rounded font-label-sm text-label-sm bg-surface-container-high text-on-surface";
+        btnDark.className = "px-space-sm py-0.5 rounded font-label-sm text-label-sm text-secondary hover:text-on-surface bg-surface-container-lowest";
+        if (canvas.parentElement) {
+          canvas.parentElement.style.backgroundColor = '#ffffff';
+        }
+      } else {
+        btnDark.className = "px-space-sm py-0.5 rounded font-label-sm text-label-sm bg-surface-container-high text-on-surface";
+        btnLight.className = "px-space-sm py-0.5 rounded font-label-sm text-label-sm text-secondary hover:text-on-surface bg-surface-container-lowest";
+        if (canvas.parentElement) {
+          canvas.parentElement.style.backgroundColor = '#0d1117';
+        }
+      }
+    }
+
+    if (btnLight && btnDark) {
+      btnLight.addEventListener('click', () => applyTheme('light'));
+      btnDark.addEventListener('click', () => applyTheme('dark'));
+    }
+
+    // Default init
+    applyTheme('light');
+  })();
+</script></div></main><footer class="w-full bg-surface-container-lowest py-space-md"><div class="max-w-[830px] mx-auto px-margin flex items-center justify-between text-secondary font-label-sm text-label-sm"><span>Target: GitHub README Max Width 830px</span><span>Industrial Metrology / Automated AI Profile</span></div></footer></body></html>

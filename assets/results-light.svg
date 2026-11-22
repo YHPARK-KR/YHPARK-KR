@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 830 350" width="830" height="350" role="img" aria-label="같은 조건에서 바꾸기 전과 후. 노트 검색 78.2%에서 88.2%, 개인정보 가림 0.875에서 1.000, 관상네컷 80초에서 40초." font-family="Pretendard, -apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Segoe UI', sans-serif" style="font-variant-numeric: tabular-nums">
+<rect x="0.5" y="0.5" width="829" height="349" rx="4" fill="#F6F8FA" stroke="#D0D7DE"/>
+<text x="16" y="32" font-size="16" font-weight="700" fill="#1F2328">노트 검색</text>
+<text x="16" y="52" font-size="13" fill="#656D76">같은 119개 질문, 노트 단위 R@10</text>
+<text x="16" y="79" font-size="13" fill="#656D76">전</text>
+<rect x="48" y="68" width="469.2" height="12" rx="2" fill="#8C959F"/>
+<text x="527.2" y="79" font-size="15" font-weight="400" fill="#656D76">78.2%</text>
+<text x="16" y="101" font-size="13" fill="#656D76">후</text>
+<rect x="48" y="90" width="529.2" height="12" rx="2" fill="#0969DA"/>
+<text x="587.2" y="101" font-size="15" font-weight="700" fill="#0969DA">88.2%</text>
+<line x1="16" y1="114.5" x2="814" y2="114.5" stroke="#D0D7DE"/>
+<text x="16" y="148" font-size="16" font-weight="700" fill="#1F2328">개인정보 가림</text>
+<text x="16" y="168" font-size="13" fill="#656D76">같은 22개 사례, 실제 가려진 결과 기준 재현율</text>
+<text x="16" y="195" font-size="13" fill="#656D76">전</text>
+<rect x="48" y="184" width="525.0" height="12" rx="2" fill="#8C959F"/>
+<text x="583.0" y="195" font-size="15" font-weight="400" fill="#656D76">0.875</text>
+<text x="16" y="217" font-size="13" fill="#656D76">후</text>
+<rect x="48" y="206" width="600.0" height="12" rx="2" fill="#0969DA"/>
+<text x="658.0" y="217" font-size="15" font-weight="700" fill="#0969DA">1.000</text>
+<line x1="16" y1="230.5" x2="814" y2="230.5" stroke="#D0D7DE"/>
+<text x="16" y="264" font-size="16" font-weight="700" fill="#1F2328">관상네컷</text>
+<text x="16" y="284" font-size="13" fill="#656D76">같은 사진 기준 응답 시간, 짧을수록 좋음</text>
+<text x="16" y="311" font-size="13" fill="#656D76">전</text>
+<rect x="48" y="300" width="600.0" height="12" rx="2" fill="#8C959F"/>
+<text x="658.0" y="311" font-size="15" font-weight="400" fill="#656D76">80초</text>
+<text x="16" y="333" font-size="13" fill="#656D76">후</text>
+<rect x="48" y="322" width="300.0" height="12" rx="2" fill="#0969DA"/>
+<text x="358.0" y="333" font-size="15" font-weight="700" fill="#0969DA">40초</text>
+</svg>
